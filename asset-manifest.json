@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-google-spreatsheet/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-google-spreatsheet/static/js/main.28a1a0bb.chunk.js",
+    "main.js.map": "/react-google-spreatsheet/static/js/main.28a1a0bb.chunk.js.map",
+    "runtime-main.js": "/react-google-spreatsheet/static/js/runtime-main.a65bbf38.js",
+    "runtime-main.js.map": "/react-google-spreatsheet/static/js/runtime-main.a65bbf38.js.map",
+    "static/js/2.36d94a08.chunk.js": "/react-google-spreatsheet/static/js/2.36d94a08.chunk.js",
+    "static/js/2.36d94a08.chunk.js.map": "/react-google-spreatsheet/static/js/2.36d94a08.chunk.js.map",
+    "index.html": "/react-google-spreatsheet/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-google-spreatsheet/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.36d94a08.chunk.js.LICENSE.txt": "/react-google-spreatsheet/static/js/2.36d94a08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a65bbf38.js",
+    "static/js/2.36d94a08.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.28a1a0bb.chunk.js"
+  ]
+}
